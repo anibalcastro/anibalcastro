@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<!--
+My name is Anibal Castro Ponce, i´m student of Software Ingineer, in the National Technical University.
+I have 2 years learning this beautiful career Software Engineering, I have used languages like Python, Java, C#, PHP, JavaScript.
+
 **anibalcastro/anibalcastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
