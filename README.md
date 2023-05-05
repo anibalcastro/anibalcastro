@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 ### About me:
-My name is Anibal Jafeth Castro Ponce, I´m student of Software Ingineer, in the National Technical University, from Costa Rica
-I have 2 years learning this beautiful career Software Engineering, I have used languages like Python, Java, C#, PHP, JavaScript.
+Software Engineering student in my last quarter of my degree, ready to use my skills and passion to further a company's mission. 
+company's mission. I have skills in software development and working with different data structures. Working with different data structures. During my years of study I did personal projects and internships personal projects and internships with different companies that gave me an approach to the software with the world of software.
 
 ### SocialMedia:
 
